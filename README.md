@@ -5,6 +5,8 @@
 ##### 技术：html + css3 + jquer + bootstrap
 
 #### 页面展示：
-
-![](https://img-blog.csdnimg.cn/20210606232647477.gif#pic_center)
-
+<div align="center">
+  
+  <img src="https://img-blog.csdnimg.cn/20210606232647477.gif" width="500px">
+  
+</div>
