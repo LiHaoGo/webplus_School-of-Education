@@ -7,6 +7,6 @@
 #### 页面展示：
 <div align="center">
   
-  <img src="https://img-blog.csdnimg.cn/20210606232647477.gif" width="80%">
+  <img src="https://img-blog.csdnimg.cn/20210609103009178.gif#pic_center" >
   
 </div>
